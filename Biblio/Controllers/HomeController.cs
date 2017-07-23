@@ -20,13 +20,6 @@ namespace Biblio.Controllers
             return View();
         }
 
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Nos informations de contact";
-
-            return View();
-        }
-
         public ActionResult Services()
         {
             ViewBag.Message = "Your services page.";
