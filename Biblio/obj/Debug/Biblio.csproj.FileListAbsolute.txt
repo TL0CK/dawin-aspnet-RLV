@@ -1,0 +1,303 @@
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\ApplicationInsights.config
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\csc.exe
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\Microsoft.CSharp.Core.targets
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\System.Collections.Immutable.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\System.Reflection.Metadata.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\vbc.exe
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\VBCSCompiler.exe
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\roslyn\VBCSCompiler.exe.config
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Biblio.dll.config
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Biblio.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Biblio.pdb
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Antlr3.Runtime.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\EntityFramework.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\EntityFramework.SqlServer.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.Agent.Intercept.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.DependencyCollector.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.PerfCounterCollector.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.Web.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.WindowsServer.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.ApplicationInsights.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AspNet.Identity.Core.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AspNet.Identity.Owin.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.Cookies.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.Facebook.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.Google.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.OAuth.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.Twitter.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Web.Infrastructure.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Newtonsoft.Json.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Owin.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.Helpers.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.Mvc.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.Optimization.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.Razor.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.WebPages.Deployment.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.WebPages.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.WebPages.Razor.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\WebGrease.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.DependencyCollector.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.Web.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AI.WindowsServer.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.ApplicationInsights.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.Helpers.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.Mvc.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.Optimization.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.Razor.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.WebPages.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.WebPages.Deployment.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\System.Web.WebPages.Razor.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Antlr3.Runtime.pdb
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Newtonsoft.Json.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\EntityFramework.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\EntityFramework.SqlServer.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AspNet.Identity.Core.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AspNet.Identity.Owin.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.Facebook.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.Cookies.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.OAuth.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.Google.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.Twitter.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\System.Web.Helpers.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\System.Web.Mvc.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\System.Web.Optimization.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\System.Web.Razor.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\System.Web.WebPages.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\System.Web.WebPages.Deployment.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\System.Web.WebPages.Razor.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\EntityFramework.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\EntityFramework.SqlServer.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.Owin.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.Owin.Security.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.csprojResolveAssemblyReference.cache
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.dll
+\\iut.bx1\etudiants\home\mrochard002\documents\visual studio 2015\Projects\Biblio\Biblio\obj\Debug\Biblio.pdb
+D:\IUT\Projets\Biblio\bin\ApplicationInsights.config
+D:\IUT\Projets\Biblio\bin\roslyn\csc.exe
+D:\IUT\Projets\Biblio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IUT\Projets\Biblio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IUT\Projets\Biblio\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IUT\Projets\Biblio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IUT\Projets\Biblio\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IUT\Projets\Biblio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IUT\Projets\Biblio\bin\roslyn\System.Collections.Immutable.dll
+D:\IUT\Projets\Biblio\bin\roslyn\System.Reflection.Metadata.dll
+D:\IUT\Projets\Biblio\bin\roslyn\vbc.exe
+D:\IUT\Projets\Biblio\bin\roslyn\VBCSCompiler.exe
+D:\IUT\Projets\Biblio\bin\roslyn\VBCSCompiler.exe.config
+D:\IUT\Projets\Biblio\bin\Biblio.dll.config
+D:\IUT\Projets\Biblio\bin\Biblio.dll
+D:\IUT\Projets\Biblio\bin\Biblio.pdb
+D:\IUT\Projets\Biblio\bin\Antlr3.Runtime.dll
+D:\IUT\Projets\Biblio\bin\EntityFramework.dll
+D:\IUT\Projets\Biblio\bin\EntityFramework.SqlServer.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.DependencyCollector.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.Web.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.WindowsServer.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.ApplicationInsights.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.Facebook.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.Google.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.Twitter.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.Web.Infrastructure.dll
+D:\IUT\Projets\Biblio\bin\Newtonsoft.Json.dll
+D:\IUT\Projets\Biblio\bin\Owin.dll
+D:\IUT\Projets\Biblio\bin\System.Web.Helpers.dll
+D:\IUT\Projets\Biblio\bin\System.Web.Mvc.dll
+D:\IUT\Projets\Biblio\bin\System.Web.Optimization.dll
+D:\IUT\Projets\Biblio\bin\System.Web.Razor.dll
+D:\IUT\Projets\Biblio\bin\System.Web.WebPages.Deployment.dll
+D:\IUT\Projets\Biblio\bin\System.Web.WebPages.dll
+D:\IUT\Projets\Biblio\bin\System.Web.WebPages.Razor.dll
+D:\IUT\Projets\Biblio\bin\WebGrease.dll
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.DependencyCollector.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.Web.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.AI.WindowsServer.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.ApplicationInsights.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IUT\Projets\Biblio\bin\System.Web.Helpers.xml
+D:\IUT\Projets\Biblio\bin\System.Web.Mvc.xml
+D:\IUT\Projets\Biblio\bin\System.Web.Optimization.xml
+D:\IUT\Projets\Biblio\bin\System.Web.Razor.xml
+D:\IUT\Projets\Biblio\bin\System.Web.WebPages.xml
+D:\IUT\Projets\Biblio\bin\System.Web.WebPages.Deployment.xml
+D:\IUT\Projets\Biblio\bin\System.Web.WebPages.Razor.xml
+D:\IUT\Projets\Biblio\bin\Antlr3.Runtime.pdb
+D:\IUT\Projets\Biblio\bin\Newtonsoft.Json.xml
+D:\IUT\Projets\Biblio\bin\EntityFramework.xml
+D:\IUT\Projets\Biblio\bin\EntityFramework.SqlServer.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.Facebook.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.Google.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.Twitter.xml
+D:\IUT\Projets\Biblio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\IUT\Projets\Biblio\bin\fr\System.Web.Helpers.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\System.Web.Mvc.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\System.Web.Optimization.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\System.Web.Razor.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\System.Web.WebPages.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\EntityFramework.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.Owin.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\IUT\Projets\Biblio\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\IUT\Projets\Biblio\obj\Debug\Biblio.csprojResolveAssemblyReference.cache
+D:\IUT\Projets\Biblio\obj\Debug\Biblio.dll
+D:\IUT\Projets\Biblio\obj\Debug\Biblio.pdb
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\ApplicationInsights.config
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\csc.exe
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\System.Collections.Immutable.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\vbc.exe
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\VBCSCompiler.exe
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\roslyn\VBCSCompiler.exe.config
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Biblio.dll.config
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Biblio.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Biblio.pdb
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Antlr3.Runtime.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\EntityFramework.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\EntityFramework.SqlServer.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.DependencyCollector.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.Web.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.WindowsServer.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.ApplicationInsights.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.Google.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Web.Infrastructure.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Newtonsoft.Json.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Owin.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.Helpers.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.Mvc.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.Optimization.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.Razor.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.WebPages.Deployment.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.WebPages.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.WebPages.Razor.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\WebGrease.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.DependencyCollector.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.Web.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AI.WindowsServer.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.ApplicationInsights.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.Helpers.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.Mvc.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.Optimization.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.Razor.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.WebPages.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.WebPages.Deployment.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\System.Web.WebPages.Razor.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Antlr3.Runtime.pdb
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Newtonsoft.Json.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\EntityFramework.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\EntityFramework.SqlServer.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.Google.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\System.Web.Helpers.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\System.Web.Mvc.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\System.Web.Optimization.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\System.Web.Razor.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\System.Web.WebPages.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\EntityFramework.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.Owin.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\obj\Debug\Biblio.csprojResolveAssemblyReference.cache
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\obj\Debug\Biblio.dll
+D:\Cours\dawin_alt_aspnet_bibliotheque\Biblio\obj\Debug\Biblio.pdb
