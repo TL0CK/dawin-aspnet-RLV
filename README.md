@@ -28,3 +28,6 @@
 
 ### Contact
 [Contacter Christophe GILBERT par mail](mailto:mail@christophe-gilbert.fr)
+
+###A savoir
+Le travail issu de ce repository à en partie été fait sur un autre repository avant d'être mis en place ici suite à des problèmes techniques
