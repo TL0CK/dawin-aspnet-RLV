@@ -1,0 +1,50 @@
+﻿@model Biblio.Models.StatusModels
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>StatusModels</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ShortLibStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShortLibStatus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LibStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LibStatus)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartBorrowingTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartBorrowingTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExpectedEndBorrowingTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExpectedEndBorrowingTime)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
