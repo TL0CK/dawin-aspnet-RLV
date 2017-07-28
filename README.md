@@ -30,4 +30,4 @@
 [Contacter Christophe GILBERT par mail](mailto:mail@christophe-gilbert.fr)
 
 ### A savoir
-Le travail issu de ce repository à en partie été fait sur un autre repository avant d'être mis en place ici suite à des problèmes techniques
+Suite à un problème technique sur le repository [dawin_alt_aspnet_bibliotheque](https://github.com/comeleleu/dawin_alt_aspnet_bibliotheque), nous avons du en changer. Ce repository est donc dans la continuité du précédent.
