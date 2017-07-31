@@ -23,7 +23,9 @@ namespace Biblio.Controllers
         public ActionResult Services()
         {
             ViewBag.Message = "Your services page.";
-
+            
+            ViewBag.Books = Biblio.Models.Books;
+            
             return View();
         }
     }
