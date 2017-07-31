@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -23,7 +23,6 @@ namespace Biblio.Controllers
         public ActionResult Services()
         {
             ViewBag.Message = "Your services page.";
-            
             ViewBag.Books = Biblio.Models.Books;
             
             return View();
