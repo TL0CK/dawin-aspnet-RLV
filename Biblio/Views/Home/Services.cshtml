@@ -5,4 +5,21 @@
 <div class="jumbotron">
     <h1>Bibliothèque - Livrybody</h1>
     <p>Voici la liste des livres disponibles :</p>
+    
+    <table>
+        <tr>
+            <th>Livre</th>
+            <th>Auteur</th>
+            <th>Date de publication</th>
+            <th>Disponibilité</th>
+        </tr>
+        @foreach(ViewBag.Books){
+            <tr>
+                <td>@ViewBag.Books.Oeuvre.Title</td>
+                <td>@ViewBag.Books.Oeuvre.Author.FirstName @ViewBag.Books.Oeuvre.Author.LastName</td>
+                <td>@ViewBag.Books.Oeuvre.PublicationDate</td>
+                <td>@Html.DisplayFor(booksAvailable => booksAvailable.Count)</td>
+            </tr>
+        }
+    </table
 </div>
