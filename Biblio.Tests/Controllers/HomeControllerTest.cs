@@ -39,13 +39,13 @@ namespace Biblio.Tests.Controllers
         }
 
         [TestMethod]
-        public void Contact()
+        public void Services()
         {
             // Arrange
             HomeController controller = new HomeController();
 
             // Act
-            ViewResult result = controller.Contact() as ViewResult;
+            ViewResult result = controller.Services() as ViewResult;
 
             // Assert
             Assert.IsNotNull(result);
