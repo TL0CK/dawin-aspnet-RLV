@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNet.Identity.EntityFramework;
 using System;
+using System.Data.Entity;
 
 namespace Biblio.Models
 {
@@ -10,6 +11,11 @@ namespace Biblio.Models
         public string LibStatus { get; set; }
         public DateTime StartBorrowingTime { get; set; }
         public DateTime ExpectedEndBorrowingTime { get; set; }
-        public ApplicationUser CurrentOwner { get; set; }
+        // public ApplicationUser CurrentOwner { get; set; }
+    }
+
+    public class StatusDBContext : DbContext
+    {
+        public DbSet<StatusModels> StatusModels { get; set; }
     }
 }
